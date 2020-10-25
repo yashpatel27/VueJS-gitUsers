@@ -1,4 +1,4 @@
-# github
+
 
 ## Project setup
 Open CMD on the location where package.json is located and run 
